@@ -2,7 +2,7 @@
 
 
 ## App Description
-Remember our unit 1 assessment? Where you made a checkout app in the command line? Turn that into a iOS app!
+Remember our unit 1 assessment? Where you made a checkout app in the command line? Turn that into an iOS shopping cart app!
 
 Here is the app:
 
