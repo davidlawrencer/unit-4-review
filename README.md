@@ -5,12 +5,13 @@
 Remember our unit 1 assessment? Where you made a checkout app in the command line? Turn that into a iOS app!
 
 Here is the app:
+
 ![pursuit farms](./Images/command_line_app.gif)
 
 
 ## App Architecture
 
-Create your app without a storyboard.
+Create your app without a storyboard. Add all views, actions, and gestures programmatically.
 
 ### Main View Controller
 
