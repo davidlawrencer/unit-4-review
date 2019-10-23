@@ -23,4 +23,4 @@ In the top right of your main view controller should be an "add" button that bri
 
 ### Create View Controller
 
-In the create view controller, the user should be able to enter an item's name, select the price from a picker, and add a picture. When the user hits a save button, the item should be added to their documents directory. Make each field required.
+In the create view controller, the user should be able to enter an item's name, set the price from a stepper, and add a picture. When the user hits a save button, the item should be added to their documents directory. Make each field required.
